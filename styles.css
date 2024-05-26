@@ -1,0 +1,19 @@
+.picture {
+    height: 700px;
+    width: 500px;
+    border: 10px solid snow;
+    text-align: center;
+    margin: 20px 675px 0px 675px;
+}
+h1  {
+    color: snow;
+    margin: 0px;
+    text-align: center;
+    font-size: 4em;
+}
+h2 {
+    color: snow;
+    margin: 0px;
+    text-align: center;
+    font-size: 20pt;
+}
